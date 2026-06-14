@@ -3,7 +3,7 @@
 A rigorous, end-to-end deep learning research project applying advanced Computer Vision techniques to classify satellite imagery.
 
 **View the Interactive Research Report:**  
-👉 [EuroSAT Masterclass HTML Report]([https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/eurosat_masterclass.html](https://github.com/uttam1008/Eurosat-xai-benchmarking/blob/main/eurosat_masterclass.html)) 👈
+[![Showcase](https://img.shields.io/badge/Interactive--Report-Live%20Demo-success?style=flat-square)](https://uttam1008.github.io/Eurosat-xai-benchmarking/eurosat_masterclass.html)
 
 
 
