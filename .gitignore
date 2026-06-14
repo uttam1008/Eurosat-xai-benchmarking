@@ -1,0 +1,18 @@
+# EuroSAT Image Data (27,000 images, too large for standard GitHub)
+data/
+data/eurosat/
+
+# PyTorch Model Weights
+*.pth
+*.pt
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
